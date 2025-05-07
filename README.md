@@ -45,9 +45,6 @@ O projeto vem com três usuários fictícios e contas correntes previamente cria
    - `Ctrl+F5` ou
    - Clique em `Run Python File in Terminal` com o arquivo aberto
 
-## 📁 Estrutura do Projeto
-
-
 ## 📌 Objetivo Educacional
 
 Este projeto foi desenvolvido com fins didáticos, como parte de um exercício para praticar:
